@@ -22,7 +22,7 @@ Para este proyecto he utilizado las tecnologías:
 
 3. Descarga e Instala XAMPP: Visita la [web](https://www.apachefriends.org/index.html) oficial de XAMPP y descarga la versión compatible con tu sistema operativo (Windows, macOS o Linux). Sigue las instrucciones de instalación proporcionadas en la web.
 
-4. 4. Inicia XAMPP y Apache: Después de instalar XAMPP, inicia la aplicación. Inicia el servidor Apache desde el panel de control de XAMPP.
+4. Inicia XAMPP y Apache: Después de instalar XAMPP, inicia la aplicación. Inicia el servidor Apache desde el panel de control de XAMPP.
 
 5. Coloca tu proyecto en la carpeta htdocs: En XAMPP, el directorio home del servidor web es htdocs. Coloca tu proyecto en este directorio.
 
