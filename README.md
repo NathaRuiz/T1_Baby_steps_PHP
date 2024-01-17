@@ -1,33 +1,34 @@
-## PEDAGOGICAL OBJECTIVE
-Develop skills for the creation of dynamic web applications using PHP as a backend programming language.
+## OBJETIVO PEDAGÓGICO
+Desarrollar habilidades para la creación de aplicaciones web dinámicas utilizando PHP como lenguaje de programación backend.
 
-## Files
+## Archivos
 
-- index.php`: Main page linking to the other parts.
-- part1.php`: Contains examples of variable manipulation and data output.
-- part2.php`: Examples of logical operators and truth tables.
-- part3.php`: Contains examples of strings, sums and some functions.
-- Part4.php: Examples of arrays and functions.
+- `index.php`: Página principal que enlaza con las otras partes.
+- `partes.php`: Archivo que se encarga de direccionar a las partes correcpondientes.
+- `parte1.php`: Contiene ejemplos de manipulación de variables y salida de datos.
+- `parte2.php`: Ejemplos de operadores lógicos y tablas de verdad.
+- `parte3.php`: Contiene ejemplos de cadenas, sumas y algunas funciones.
+- `parte4.php`: Ejemplos de matrices y funciones.
 
-## Process 
-### Tecnologies
-For this project I used the technologies:
- <img src="https://skillicons.dev/icons?i=html,php,xampp,)](https://skillicons.dev"/>
+## Proceso 
+### Tecnologías
+Para este proyecto he utilizado las tecnologías:
+- <img src="https://skillicons.dev/icons?i=html,php,)](https://skillicons.dev"/>
 
-## Installations Steps
-1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository.
+## Pasos de Instalación
+1. [Clonar](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) el repositorio.
 
-2. Open the proyect in Visual Studio Code ( is a source code editor developed by Microsoft for Windows, Linux, macOS and Web).
+2. Abrir el proyecto en Visual Studio Code ( es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web).
 
-3.Download and Install XAMPP: Visit the official XAMPP [website](https://www.apachefriends.org/index.html) and download the version compatible with your operating system (Windows, macOS or Linux). Follow the installation instructions provided on the website.
+3. Descarga e Instala XAMPP: Visita la [web](https://www.apachefriends.org/index.html) oficial de XAMPP y descarga la versión compatible con tu sistema operativo (Windows, macOS o Linux). Sigue las instrucciones de instalación proporcionadas en la web.
 
-4. Start XAMPP and start Apache: After installing XAMPP, start the application. Start the Apache server from the XAMPP control panel.
+4. 4. Inicia XAMPP y Apache: Después de instalar XAMPP, inicia la aplicación. Inicia el servidor Apache desde el panel de control de XAMPP.
 
-5. Place your Project in the htdocs Folder: In XAMPP, the home directory of the web server is htdocs. Place your project in this directory.
+5. Coloca tu proyecto en la carpeta htdocs: En XAMPP, el directorio home del servidor web es htdocs. Coloca tu proyecto en este directorio.
 
-6. Access your Project in the Browser: Open your web browser and visit http://localhost/T1_Baby_steps_PHP/index.php (be sure to replace "your-project-name" with your actual project name and folder structure).
+6. Acceda a su proyecto en el navegador: Abra su navegador web y visite http://localhost/T1_Baby_steps_PHP/index.php 
 
-7. Enjoy it.
+7. Disfrútelo.
 
-## Author 
-created with 💜 by [NathaRuiz](https://github.com/NathaRuiz)
+## Autor 
+creado con 💜 por [NathaRuiz](https://github.com/NathaRuiz)
